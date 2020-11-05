@@ -152,7 +152,13 @@ By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $
 
 ## Token Allocation and Pre-Sale
 
-
+- Development team: 15.96%
+- Referral link: 6.38%
+- Pre sale: 19.15%
+- Uniswap: 10.64%
+- Exchanges: 10.64%
+- Team & Advisors: 21.28%
+- Staking: 15.96%
 
 ## Peacock Finance Team and Advisors
 
@@ -161,17 +167,17 @@ By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $
 
 ## Social Media
 
-https://t.me/peacock_finance
-https://twitter.com/peacock_finance
-https://www.instagram.com/peacock_finance/
-https://www.youtube.com/channel/UCA3mHEIu4mRw9EsgdKk-ARA/featured
-https://medium.com/@peacock.swap
-https://fb.me/Peacockfinanc
-https://steemitwallet.com/@peacockfinance/
-https://github.com/peacocktfinance
-https://www.reddit.com/user/peacock_swap
-https://www.linkedin.com/in/peacock-swap-1ab0331ba/
-https://discord.com/peacock.swap#3421
-https://steemitwallet.com/@peacockfinance
-https://t.me/PCKF_ES
-https://t.me/PCKF_EN
+- https://t.me/peacock_finance
+- https://twitter.com/peacock_finance
+- https://www.instagram.com/peacock_finance/
+- https://www.youtube.com/channel/UCA3mHEIu4mRw9EsgdKk-ARA/featured
+- https://medium.com/@peacock.swap
+- https://fb.me/Peacockfinanc
+- https://steemitwallet.com/@peacockfinance/
+- https://github.com/peacocktfinance
+- https://www.reddit.com/user/peacock_swap
+- https://www.linkedin.com/in/peacock-swap-1ab0331ba/
+- https://discord.com/peacock.swap#3421
+- https://steemitwallet.com/@peacockfinance
+- https://t.me/PCKF_ES
+- https://t.me/PCKF_EN
