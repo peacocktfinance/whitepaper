@@ -1,5 +1,8 @@
 #### Whitepaper Peacock Finance
 
+
+![alt text](https://peacockfinance.org/256x256.png)
+
 ## Abstract
 
 The cryptocurrency industry is changing each day. For instance, the number of cryptocurrency exchanges keeps growing with each platform choosing to offer an extra unique service as a differentiation strategy in the crypto universe some choose to focus on trading, brand identity, customer service or education resources. Strategy chosen by these centralized exchanges has led the industry to grow alongside imminent challenges not possible to solve using centralized strategies and or plans. Therefore, there is a need to support decentralized exchanges that are truly focussed on the original Satoshi Nakamoto vision in Bitcoin of creating a trust less, permission-less and a peer to peer ecosystem where each user has control over their funds or wealth. Peacock Finance is such a platform seeking to revolutionize the crypto ecosystem by introducing innovative decentralized finance solutions. 
@@ -160,10 +163,20 @@ By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $
 - Team & Advisors: 21.28%
 - Staking: 15.96%
 
+![alt text](https://peacockfinance.org/assets/images/chart.png)
+
 ## Peacock Finance Team and Advisors
 
-**Jhon Cantor**
-**Andrés Medina**
+- **Jhon Cantor**
+- **Andrés Medina**
+
+## ROAD MAP
+![alt text](https://peacockfinance.org/roadmap.png)
+
+
+
+
+
 
 ## Social Media
 
