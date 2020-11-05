@@ -170,7 +170,8 @@ By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $
 - **Jhon Cantor**
 - **Andrés Medina**
 
-## ROAD MAP
+
+## Road Map
 ![alt text](https://peacockfinance.org/roadmap.png)
 
 
