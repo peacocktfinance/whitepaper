@@ -126,11 +126,11 @@ Our platform will have Peacock staking option for users interested in staking th
 ## Peacock Finance (PCKF) and Tokenomics 
 Our platform will have a native token namely Peacock Finance (PCKF) which will run natively on the Ethereum blockchain using ERC20 standard. It will have a limited supply (borrowing from Bitcoin principle of limiting supply) of 520,000 PCKF. The objective of having such a limited supply and capping it is to allows us to control token inflation as well as gain value through organic and exponential growth. 
 
-Token Name:	Peacock Finance
-Token Symbol: 	**PCKF**
-Token Type	ERC20
-Total Supply 	**520,000**
-Contract	0xb77B2a2e2513e1C84d85b4B2006a6BdAD9C9dfB4
+- Token Name:	Peacock Finance
+- Token Symbol: 	**PCKF**
+- Token Type	ERC20
+- Total Supply 	**520,000**
+- Contract	**0xb77B2a2e2513e1C84d85b4B2006a6BdAD9C9dfB4**
 
 Pre-Sale  1 Supply 	**100,000**
 Hard Cap	**$60,000**
