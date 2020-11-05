@@ -144,9 +144,9 @@ We expect our token to have several utility functions such as aiding payments an
 
 ## Token Sale 
 Our token holders will participate in token sale in a 3:1 ratio and this will be available on Tron, EOS, NEM and Cardano exchanges. There will be 3 round of Peacock Finance (PCKF) pre-sale each retailing at $0.6 initially. 
-**Round 1: 100,000 PCKF at 0.6 USDT/token**
-**Round 2: 50,000 PCKF at 1.2 USDT/token**
-**Round 3: 30,000 PCKF at 2 USDT/token**
+- **Round 1: 100,000 PCKF at 0.6 USDT/token**
+- **Round 2: 50,000 PCKF at 1.2 USDT/token**
+- **Round 3: 30,000 PCKF at 2 USDT/token**
 
 By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $3. 
 
