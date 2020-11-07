@@ -172,7 +172,7 @@ By the time of launch on Peacock Swap Exchange and Uniswap each PCKF will cost $
 
 
 ## Road Map
-![alt text](https://peacockfinance.org/roadmap.png)
+![alt text](https://peacockfinance.org/roadmaps.png)
 
 
 
